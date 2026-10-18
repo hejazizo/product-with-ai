@@ -96,7 +96,7 @@ flowchart LR
 |---|---|---|---|---|---|
 | p00-e01 | Concept | How a product works end to end: client, server, database, API, cloud | [Lesson](https://claude.ai/artifact/EUR449wTAHsfjHXAQk7fGD) | | drafting |
 | p00-e02 | Build-along | Terminal and files | [Lesson](https://claude.ai/artifact/Aj6q1jTvgs6YAtavWj8bPy) | | drafting |
-| p00-e03 | Build-along | Git and GitHub: commits, branches, pull requests | | | planned |
+| p00-e03 | Build-along | Git and GitHub: commits, branches, pull requests | [Lesson](https://claude.ai/artifact/YL31nCSGV8jvvUJuE3igaK) | | drafting |
 | p00-e04 | Concept | Code literacy: reading Python and TypeScript (variables, functions, objects, async) | | | planned |
 | p00-e05 | Concept | Working with AI coding agents: the plan → build → review loop | | | planned |
 | p00-e06 | Build-along | Project instructions and context files for your agent | | | planned |

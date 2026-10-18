@@ -6,6 +6,8 @@ A free Pytopia course on YouTube about building a complete product from scratch 
 
 AI coding agents now write much of the code. The skills that matter are deciding what to build, breaking it into tickets, directing the agent, reviewing what it produces, and getting the product in front of real users. This course teaches all of them.
 
+**Start here:** watch the [course kickoff](https://claude.ai/artifact/9bfcm7wScXzEq1BTE9wCxL), then follow the episodes in order from the [course index](course/README.md).
+
 ## Who it's for
 
 - You know a little programming: you can read basic Python and you've used a terminal.
@@ -22,12 +24,12 @@ Everyone builds a real product of their own alongside the course. At the end, yo
 
 - **Self-paced videos**, 5–12 minutes each, in three types:
   - **Concept:** one idea explained on its own, useful outside the course.
-  - **Build-along:** we apply it to the reference product on screen.
+  - **Build-along:** we apply it to one of the reference products on screen.
   - **Your Turn:** a short brief for applying it to your own product, as a ticket.
 - **An interactive lesson for every video.** Keep it open while you watch: it has the diagrams, the prompts we use and your brief. Find them all in the [course index](course/README.md).
-- **Two products in parallel:** we build the [reference product](project/) on camera, and you build your own idea.
+- **Three reference products, and yours:** we build [three products](project/) on camera, each with a different amount of AI, and you build your own idea alongside them.
 - **The course is a Linear board.** Every lesson is a ticket you import and close as you go. See [course/linear/](course/linear/).
-- **Catch-up points:** the reference product has a git tag at the end of every part (e.g. `part04-end`), so you can always pick up from there.
+- **Catch-up points:** each reference product has a git tag at the end of every part it appears in (e.g. `part04-end`), so you can always pick up from there.
 - **We review every diff.** If we can't explain AI-written code, we don't merge it.
 
 ## Syllabus
@@ -79,7 +81,7 @@ product-with-ai/
 │   ├── README.md    # index of every episode, with links to its lesson artifact and video
 │   ├── episodes/    # extra files for an episode, only when it needs them
 │   └── linear/      # the course as an importable Linear backlog
-└── project/         # the reference product built on camera
+└── project/         # the three reference products built on camera
 ```
 
 ## Status

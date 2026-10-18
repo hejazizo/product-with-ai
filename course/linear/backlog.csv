@@ -8,12 +8,12 @@ p00-e02 · Terminal and files,"**Why:** Part 00 sets up the loop you'll use for 
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
 
-**Done when:** You can move around and create and inspect files from the terminal, and your `feedback-analyzer` folder has its README, `data/feedback-sample.csv` and `notes/interview-questions.md`.",Todo,No priority,"Build-along, Part 00",Part 00: Foundations
+**Done when:** You can move around and create and inspect files from the terminal, and your `website` folder has its README, `data/posts-sample.csv` and `notes/interview-questions.md`.",Todo,No priority,"Build-along, Part 00",Part 00: Foundations
 "p00-e03 · Git and GitHub: commits, branches, pull requests","**Why:** Part 00 sets up the loop you'll use for every change in the course: you plan, the agent builds, you review, you merge.
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
 
-**Done when:** Your `feedback-analyzer` repo is on GitHub, and you've merged its first pull request into `main`.",Todo,No priority,"Build-along, Part 00",Part 00: Foundations
+**Done when:** Your `website` repo is on GitHub, and you've merged its first pull request into `main`.",Todo,No priority,"Build-along, Part 00",Part 00: Foundations
 "p00-e04 · Code literacy: reading Python and TypeScript (variables, functions, objects, async)","**Why:** Part 00 sets up the loop you'll use for every change in the course: you plan, the agent builds, you review, you merge.
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
@@ -28,7 +28,7 @@ p00-e06 · Project instructions and context files for your agent,"**Why:** Part 
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
 
-**Done when:** Your `feedback-analyzer` repo has an `AGENTS.md` (and a `CLAUDE.md` that points to it), merged through a pull request, and a fresh agent session can list its rules.",Todo,No priority,"Build-along, Part 00",Part 00: Foundations
+**Done when:** Your `website` repo has an `AGENTS.md` (and a `CLAUDE.md` that points to it), merged through a pull request, and a fresh agent session can list its rules.",Todo,No priority,"Build-along, Part 00",Part 00: Foundations
 "p00-e07 · Import the course Linear board, create your repo, merge your first pull request","**Why:** Part 00 sets up the loop you'll use for every change in the course: you plan, the agent builds, you review, you merge.
 
 **What:** Watch the episode with its lesson open (both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md)). Then import this backlog into Linear and group it into one project per part. Create a GitHub repo and a Linear team for your own product, connect Linear to GitHub, and have an agent open your product's first pull request from its first ticket.
@@ -55,7 +55,7 @@ p01-e04 · Competitor and market scan,"**Why:** Before anything gets built, you 
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
 
-**Done when:** The feedback analyzer has a competitor table: who each competitor serves, what they charge, and the gap we're aiming at.",Backlog,No priority,"Build-along, Part 01",Part 01: Product Management
+**Done when:** The website has a competitor table: who each competitor serves, what they charge, and the gap we're aiming at.",Backlog,No priority,"Build-along, Part 01",Part 01: Product Management
 "p01-e05 · Writing a one-page spec: user stories, MVP scope, what's out of scope","**Why:** Before anything gets built, you need to know what you're building and for whom, with the work broken into tickets.
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
@@ -70,7 +70,7 @@ p01-e07 · Turning the spec into tickets; what a good ticket looks like,"**Why:*
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
 
-**Done when:** The feedback analyzer's spec is broken into epics and tickets, and every ticket has why, what, out of scope and done when.",Backlog,No priority,"Build-along, Part 01",Part 01: Product Management
+**Done when:** The website's spec is broken into epics and tickets, and every ticket has why, what, out of scope and done when.",Backlog,No priority,"Build-along, Part 01",Part 01: Product Management
 p01-e08 · Write your spec and MVP backlog,"**Why:** Before anything gets built, you need to know what you're building and for whom, with the work broken into tickets.
 
 **What:** Watch the episode with its lesson open (both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md)). Then write a one-page spec for your product in `docs/spec.md`, and break it into an MVP backlog of about 20 tickets in your product's Linear team.
@@ -87,12 +87,12 @@ p02-e02 · Wireframes in Figma or Excalidraw,"**Why:** You see and click through
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
 
-**Done when:** The feedback analyzer's main flow is wireframed, one frame per screen.",Backlog,No priority,"Build-along, Part 02",Part 02: Design
+**Done when:** The website's main flow is wireframed, one frame per screen.",Backlog,No priority,"Build-along, Part 02",Part 02: Design
 "p02-e03 · AI prototyping (v0, artifacts)","**Why:** You see and click through the product before writing real code, while changes are still cheap.
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
 
-**Done when:** The feedback analyzer has a clickable prototype of its main flow, made with an AI prototyping tool.",Backlog,No priority,"Build-along, Part 02",Part 02: Design
+**Done when:** The website has a clickable prototype of its main flow, made with an AI prototyping tool.",Backlog,No priority,"Build-along, Part 02",Part 02: Design
 "p02-e04 · Visual basics: typography, spacing, color, hierarchy","**Why:** You see and click through the product before writing real code, while changes are still cheap.
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
@@ -134,12 +134,12 @@ p03-e04 · Building the main pages,"**Why:** The real UI runs in the browser on 
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
 
-**Done when:** The feedback analyzer's main pages render in the browser on mock data.",Backlog,No priority,"Build-along, Part 03",Part 03: Frontend
+**Done when:** The website's main pages (home, the blog and a single post) render in the browser on mock data.",Backlog,No priority,"Build-along, Part 03",Part 03: Frontend
 "p03-e05 · Forms, validation, and loading, error and empty states","**Why:** The real UI runs in the browser on mock data, so you can try the product's flow before the backend exists.
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
 
-**Done when:** The feedback analyzer's forms validate their input, and every page has a loading, an error and an empty state.",Backlog,No priority,"Build-along, Part 03",Part 03: Frontend
+**Done when:** The website's forms (sign-up, sign-in, new post) validate their input, and every page has a loading, an error and an empty state.",Backlog,No priority,"Build-along, Part 03",Part 03: Frontend
 p03-e06 · Calling APIs from the frontend,"**Why:** The real UI runs in the browser on mock data, so you can try the product's flow before the backend exists.
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
@@ -161,7 +161,7 @@ p04-e02 · FastAPI essentials,"**Why:** Real data and real users turn the UI int
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
 
-**Done when:** The feedback analyzer has a FastAPI backend with its first endpoints and their docs page.",Backlog,No priority,"Build-along, Part 04",Part 04: Backend and Data
+**Done when:** The website has a FastAPI backend with its first endpoints and their docs page.",Backlog,No priority,"Build-along, Part 04",Part 04: Backend and Data
 "p04-e03 · Databases: data modeling, SQL basics, Postgres","**Why:** Real data and real users turn the UI into a working full-stack MVP.
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
@@ -171,7 +171,7 @@ p04-e02 · FastAPI essentials,"**Why:** Real data and real users turn the UI int
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
 
-**Done when:** The feedback analyzer's schema exists in Postgres, created by a migration.",Backlog,No priority,"Build-along, Part 04",Part 04: Backend and Data
+**Done when:** The website's schema (users, posts, comments) exists in Postgres, created by a migration.",Backlog,No priority,"Build-along, Part 04",Part 04: Backend and Data
 p04-e05 · Authentication and authorization,"**Why:** Real data and real users turn the UI into a working full-stack MVP.
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
@@ -181,7 +181,7 @@ p04-e06 · Sign-in and roles,"**Why:** Real data and real users turn the UI into
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
 
-**Done when:** People can sign in to the feedback analyzer, and their role limits what they can see and do.",Backlog,No priority,"Build-along, Part 04",Part 04: Backend and Data
+**Done when:** People can sign in to the website, and their role (admin, author or reader) limits what they can see and do.",Backlog,No priority,"Build-along, Part 04",Part 04: Backend and Data
 "p04-e07 · Background jobs, webhooks and file storage","**Why:** Real data and real users turn the UI into a working full-stack MVP.
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
@@ -191,7 +191,7 @@ p04-e08 · Integrating third-party APIs,"**Why:** Real data and real users turn 
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
 
-**Done when:** The feedback analyzer creates tickets in Linear through Linear's API.",Backlog,No priority,"Build-along, Part 04",Part 04: Backend and Data
+**Done when:** The website's contact form creates a ticket in Linear through Linear's API.",Backlog,No priority,"Build-along, Part 04",Part 04: Backend and Data
 p04-e09 · Connect your frontend to a real backend,"**Why:** Real data and real users turn the UI into a working full-stack MVP.
 
 **What:** Watch the episode with its lesson open (both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md)). Then give your product a backend and a database, add sign-in, and switch the frontend from mock data to real data.
@@ -208,7 +208,7 @@ p05-e02 · Calling an LLM API: prompts and system prompts,"**Why:** The product 
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
 
-**Done when:** The feedback analyzer calls an LLM from its backend with a system prompt, and the API key isn't in the repo.",Backlog,No priority,"Build-along, Part 05",Part 05: AI Engineering
+**Done when:** The Shahnameh explorer's chatbot calls an LLM from the backend with a system prompt that includes the page you're on, and the API key isn't in the repo.",Backlog,No priority,"Build-along, Part 05",Part 05: AI Engineering
 p05-e03 · Structured outputs and tool use,"**Why:** The product gets an AI feature users can rely on, and you can measure how good it is.
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
@@ -233,7 +233,7 @@ p05-e07 · An eval suite for the AI feature,"**Why:** The product gets an AI fea
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
 
-**Done when:** The feedback analyzer's theme grouping has an eval suite you can rerun with one command.",Backlog,No priority,"Build-along, Part 05",Part 05: AI Engineering
+**Done when:** The Shahnameh explorer's chatbot has an eval suite you can rerun with one command.",Backlog,No priority,"Build-along, Part 05",Part 05: AI Engineering
 "p05-e08 · Production concerns: cost, latency, caching, streaming, guardrails","**Why:** The product gets an AI feature users can rely on, and you can measure how good it is.
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
@@ -265,7 +265,7 @@ p06-e03 · Event tracking with PostHog,"**Why:** You learn how people use the pr
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
 
-**Done when:** The feedback analyzer sends its key events to PostHog.",Backlog,No priority,"Build-along, Part 06",Part 06: Data and Analytics
+**Done when:** The website sends its key events (sign-up, post published, comment) to PostHog.",Backlog,No priority,"Build-along, Part 06",Part 06: Data and Analytics
 p06-e04 · Data visualization: choosing the right chart,"**Why:** You learn how people use the product, and you can show it on a dashboard.
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
@@ -275,7 +275,7 @@ p06-e05 · Building a metrics dashboard,"**Why:** You learn how people use the p
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
 
-**Done when:** The feedback analyzer has a dashboard of its core metrics.",Backlog,No priority,"Build-along, Part 06",Part 06: Data and Analytics
+**Done when:** The website has a dashboard of its core metrics.",Backlog,No priority,"Build-along, Part 06",Part 06: Data and Analytics
 p06-e06 · A/B tests and feature flags,"**Why:** You learn how people use the product, and you can show it on a dashboard.
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
@@ -297,7 +297,7 @@ p06-e07 · Track your core metrics,"**Why:** You learn how people use the produc
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
 
-**Done when:** The feedback analyzer has AI-written tests that you reviewed, and you sent back at least one weak test.",Backlog,No priority,"Build-along, Part 07",Part 07: Quality and Security
+**Done when:** The website has AI-written tests that you reviewed, and you sent back at least one weak test.",Backlog,No priority,"Build-along, Part 07",Part 07: Quality and Security
 p07-e03 · Reviewing AI-written pull requests: a checklist,"**Why:** You can trust the code, including the code the AI wrote.
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
@@ -329,7 +329,7 @@ p08-e02 · Deploying the frontend and backend,"**Why:** The product goes live, m
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
 
-**Done when:** The feedback analyzer's frontend and backend are deployed and talking to each other.",Backlog,No priority,"Build-along, Part 08",Part 08: Ship and Operate
+**Done when:** The website's frontend and backend are deployed and talking to each other.",Backlog,No priority,"Build-along, Part 08",Part 08: Ship and Operate
 p08-e03 · CI/CD with GitHub Actions,"**Why:** The product goes live, monitored, and able to take payments.
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
@@ -344,12 +344,12 @@ p08-e03 · CI/CD with GitHub Actions,"**Why:** The product goes live, monitored,
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
 
-**Done when:** Errors in the feedback analyzer appear in error tracking and trigger an alert.",Backlog,No priority,"Build-along, Part 08",Part 08: Ship and Operate
+**Done when:** Errors on the website appear in error tracking and trigger an alert.",Backlog,No priority,"Build-along, Part 08",Part 08: Ship and Operate
 p08-e06 · Payments with Stripe; transactional email,"**Why:** The product goes live, monitored, and able to take payments.
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
 
-**Done when:** The feedback analyzer takes a payment in Stripe test mode and sends a receipt by email.",Backlog,No priority,"Build-along, Part 08",Part 08: Ship and Operate
+**Done when:** The website takes a payment in Stripe test mode and sends a receipt by email.",Backlog,No priority,"Build-along, Part 08",Part 08: Ship and Operate
 "p08-e07 · Legal basics: terms of service, privacy policy, GDPR","**Why:** The product goes live, monitored, and able to take payments.
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
@@ -381,7 +381,7 @@ p09-e04 · Collecting feedback and support requests,"**Why:** Real people use th
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
 
-**Done when:** The feedback analyzer collects feedback and support requests in one place.",Backlog,No priority,"Build-along, Part 09",Part 09: Launch and Iterate
+**Done when:** The website collects feedback and support requests in one place.",Backlog,No priority,"Build-along, Part 09",Part 09: Launch and Iterate
 p09-e05 · Prioritization and roadmapping (RICE),"**Why:** Real people use the product, and you improve it based on what they tell you.
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
@@ -391,7 +391,7 @@ p09-e06 · Feedback → tickets → sprint → ship,"**Why:** Real people use th
 
 **What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
 
-**Done when:** One round of user feedback for the feedback analyzer became tickets, a sprint and a shipped change.",Backlog,No priority,"Build-along, Part 09",Part 09: Launch and Iterate
+**Done when:** One round of user feedback for the website became tickets, a sprint and a shipped change.",Backlog,No priority,"Build-along, Part 09",Part 09: Launch and Iterate
 p09-e07 · Launch publicly and ship one iteration,"**Why:** Real people use the product, and you improve it based on what they tell you.
 
 **What:** Watch the episode with its lesson open (both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md)). Then launch your product publicly, collect feedback, and ship one change that came from it.

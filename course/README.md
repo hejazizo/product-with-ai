@@ -2,13 +2,15 @@
 
 Every part and episode of the course, with links to its lesson and video. Each lesson is a Claude artifact: students follow the video with the lesson open.
 
+**Start here:** the [course kickoff slides](https://claude.ai/artifact/9bfcm7wScXzEq1BTE9wCxL) (p00-e00), then [p00-e01](#part-00-foundations).
+
 ## How a lesson works
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'background': '#ffffff'}, 'flowchart': {'curve': 'basis'}}}%%
 flowchart LR
     T["Ticket in Linear<br/><small>the next lesson</small>"] --> C["Concept<br/><small>the idea</small>"]
-    C --> B["Build-along<br/><small>reference product</small>"]
+    C --> B["Build-along<br/><small>a reference product</small>"]
     B --> Y["Your Turn<br/><small>your product</small>"]
     Y --> D["Ticket closed"]
     Y -.->|"stuck?"| K["Catch-up tag<br/><small>pNN-eNN-end</small>"]
@@ -33,7 +35,7 @@ flowchart LR
 | Type | What it is | Re-recording |
 |---|---|---|
 | **Concept** | One idea explained on its own (whiteboard or slides) | Rarely; keep it tool-independent |
-| **Build-along** | Applying the idea to the reference product (screencast) | When tools change; keep these short |
+| **Build-along** | Applying the idea to one of the reference products (screencast) | When tools change; keep these short |
 | **Your Turn** | A brief and a ticket for the student's own product | Rarely |
 
 ## What every lesson contains
@@ -94,6 +96,7 @@ flowchart LR
 
 | ID | Type | Episode | Lesson | Video | Status |
 |---|---|---|---|---|---|
+| p00-e00 | Concept | Course kickoff: what we'll build and how the course works | [Slides](https://claude.ai/artifact/9bfcm7wScXzEq1BTE9wCxL) | | published |
 | p00-e01 | Concept | How a product works end to end: client, server, database, API, cloud | [Lesson](https://claude.ai/artifact/EUR449wTAHsfjHXAQk7fGD) | | published |
 | p00-e02 | Build-along | Terminal and files | [Lesson](https://claude.ai/artifact/Aj6q1jTvgs6YAtavWj8bPy) | | published |
 | p00-e03 | Build-along | Git and GitHub: commits, branches, pull requests | [Lesson](https://claude.ai/artifact/YL31nCSGV8jvvUJuE3igaK) | | published |

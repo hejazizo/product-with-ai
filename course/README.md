@@ -44,9 +44,8 @@ The lesson is also the recording outline, so there's no separate script.
 - **Goal:** by the end, viewers can …
 - **Key takeaways:** three to five.
 - **The lesson itself:** sections in recording order, with diagrams and interactive pieces where they help.
-- **Prompts used on camera:** copyable, so students can reuse them.
-- **Your Turn:** the brief for the student's own product, and what "done" looks like.
-- **Checklist:** what to have finished before closing the ticket.
+
+Lessons teach. They don't include quizzes, copyable prompt blocks, briefs or checklists. Exercises for the student's own product belong in Your Turn episodes.
 
 ## Conventions
 
@@ -95,7 +94,7 @@ flowchart LR
 
 | ID | Type | Episode | Lesson | Video | Status |
 |---|---|---|---|---|---|
-| p00-e01 | Concept | How a product works end to end: client, server, database, API, cloud | | | planned |
+| p00-e01 | Concept | How a product works end to end: client, server, database, API, cloud | [Lesson](https://claude.ai/artifact/EUR449wTAHsfjHXAQk7fGD) | | drafting |
 | p00-e02 | Build-along | Terminal and files | | | planned |
 | p00-e03 | Build-along | Git and GitHub: commits, branches, pull requests | | | planned |
 | p00-e04 | Concept | Code literacy: reading Python and TypeScript (variables, functions, objects, async) | | | planned |

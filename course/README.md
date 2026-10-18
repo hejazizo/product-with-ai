@@ -40,7 +40,7 @@ flowchart LR
 
 The lesson is also the recording outline, so there's no separate script.
 
-- **Header:** episode ID, type, target length, Linear ticket, and for Build-along episodes the git tags (`pNN-eNN-start` → `pNN-eNN-end`).
+- **Header:** episode ID, type, target length and Linear ticket. Git tags stay in the repo and are never mentioned in lessons.
 - **Goal:** by the end, viewers can …
 - **Key takeaways:** three to five.
 - **The lesson itself:** sections in recording order, with diagrams and interactive pieces where they help.
@@ -95,7 +95,7 @@ flowchart LR
 | ID | Type | Episode | Lesson | Video | Status |
 |---|---|---|---|---|---|
 | p00-e01 | Concept | How a product works end to end: client, server, database, API, cloud | [Lesson](https://claude.ai/artifact/EUR449wTAHsfjHXAQk7fGD) | | drafting |
-| p00-e02 | Build-along | Terminal and files | | | planned |
+| p00-e02 | Build-along | Terminal and files | [Lesson](https://claude.ai/artifact/Aj6q1jTvgs6YAtavWj8bPy) | | drafting |
 | p00-e03 | Build-along | Git and GitHub: commits, branches, pull requests | | | planned |
 | p00-e04 | Concept | Code literacy: reading Python and TypeScript (variables, functions, objects, async) | | | planned |
 | p00-e05 | Concept | Working with AI coding agents: the plan → build → review loop | | | planned |

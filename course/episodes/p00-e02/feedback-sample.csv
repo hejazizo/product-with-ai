@@ -1,0 +1,25 @@
+id,date,source,plan,text
+1,2026-09-01,app-store,free,"Love the app, but syncing between my phone and laptop is slow."
+2,2026-09-01,email,pro,Please add a way to export my reports to CSV.
+3,2026-09-02,support-chat,team,I can't log in with Google since the last update.
+4,2026-09-02,survey,free,The new dashboard is beautiful. Great work!
+5,2026-09-03,app-store,pro,"Search is slow when I have more than a few hundred items."
+6,2026-09-03,survey,team,We need roles so that interns can't delete projects.
+7,2026-09-04,email,free,Dark mode please. My eyes hurt at night.
+8,2026-09-04,support-chat,pro,"Export to PDF cuts off the last column of the table."
+9,2026-09-05,app-store,free,"Crashes every time I attach a photo on Android."
+10,2026-09-05,survey,team,"Onboarding was confusing. I didn't know where to start."
+11,2026-09-06,email,pro,The weekly summary email is the best feature. Keep it!
+12,2026-09-06,support-chat,free,Login code never arrives in my inbox.
+13,2026-09-07,app-store,pro,"Pages load slow on the train, even with good signal."
+14,2026-09-08,survey,team,Would pay more for a Slack integration.
+15,2026-09-08,email,free,"Too expensive for a student. Is there a discount?"
+16,2026-09-09,support-chat,team,Our admin can't remove a user who left the company.
+17,2026-09-10,app-store,free,Dark mode would make this a five-star app.
+18,2026-09-10,survey,pro,"Export works now, thanks for fixing it so fast."
+19,2026-09-11,email,team,"Reports take forever to generate, especially on Mondays."
+20,2026-09-12,support-chat,free,How do I change the email address on my account?
+21,2026-09-12,app-store,pro,"Notifications arrive twice, sometimes three times."
+22,2026-09-13,survey,free,"Simple, fast, does what I need."
+23,2026-09-14,email,pro,Can I share a read-only link with my client?
+24,2026-09-15,support-chat,team,Billing page shows the wrong currency for our team.

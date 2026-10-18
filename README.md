@@ -29,6 +29,31 @@ Everyone builds a real product of their own alongside the course. At the end, yo
 
 ## Syllabus
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'background': '#ffffff'}, 'flowchart': {'curve': 'basis'}}}%%
+flowchart LR
+    F["Foundations<br/><small>Part 00</small>"] --> P["Plan<br/><small>Parts 01–02 · PM, design</small>"]
+    P --> B["Build<br/><small>Parts 03–06 · frontend, backend, AI, data</small>"]
+    B --> S["Ship<br/><small>Parts 07–08 · quality, deploy</small>"]
+    S --> L["Launch and iterate<br/><small>Part 09</small>"]
+    L --> H["Get Hired<br/><small>Track 10A</small>"]
+    L --> I["Go Indie<br/><small>Track 10B</small>"]
+    L -.->|"user feedback"| P
+
+    classDef start fill:#bfdbfe,stroke:#60a5fa,color:#1e3a5f
+    classDef step fill:#ddd6fe,stroke:#a78bfa,color:#3b1f7a
+    classDef done fill:#a7f3d0,stroke:#34d399,color:#064e3b
+    classDef side fill:#fce7f3,stroke:#f472b6,color:#831843
+
+    class F start
+    class P,B,S,L step
+    class H,I done
+
+    linkStyle 0,1,2,3 stroke:#a78bfa,stroke-width:2px
+    linkStyle 4,5 stroke:#34d399,stroke-width:3px
+    linkStyle 6 stroke:#f472b6,stroke-width:2px,stroke-dasharray:5
+```
+
 | Part | Topic | You finish with |
 |---|---|---|
 | 00 | [Foundations](course/parts/00-foundations/) | A working setup and your first merged pull request |

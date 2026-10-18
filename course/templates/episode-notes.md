@@ -4,6 +4,7 @@
 **Target length:** X–Y min
 **Git tags:** `pNN-eNN-start` → `pNN-eNN-end` (Build-along only)
 **Linear ticket:** PWA-XXX
+**Lesson artifact:** <claude.ai artifact URL> (source: `lesson.html`)
 
 ## Goal
 By the end, viewers can …

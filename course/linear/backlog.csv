@@ -1,0 +1,468 @@
+Title,Description,Status,Priority,Labels,Project
+"p00-e01 · How a product works end to end: client, server, database, API, cloud","**Why:** Part 00 sets up the loop you'll use for every change in the course: you plan, the agent builds, you review, you merge.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can draw the five parts of a product (client, server, database, API, cloud) and say which ones a given change touches.",Todo,No priority,"Concept, Part 00",Part 00: Foundations
+p00-e02 · Terminal and files,"**Why:** Part 00 sets up the loop you'll use for every change in the course: you plan, the agent builds, you review, you merge.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can move around and create and inspect files from the terminal, and your `feedback-analyzer` folder has its README, `data/feedback-sample.csv` and `notes/interview-questions.md`.",Todo,No priority,"Build-along, Part 00",Part 00: Foundations
+"p00-e03 · Git and GitHub: commits, branches, pull requests","**Why:** Part 00 sets up the loop you'll use for every change in the course: you plan, the agent builds, you review, you merge.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** Your `feedback-analyzer` repo is on GitHub, and you've merged its first pull request into `main`.",Todo,No priority,"Build-along, Part 00",Part 00: Foundations
+"p00-e04 · Code literacy: reading Python and TypeScript (variables, functions, objects, async)","**Why:** Part 00 sets up the loop you'll use for every change in the course: you plan, the agent builds, you review, you merge.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can read a short Python or TypeScript function and say what goes in, what comes out and what it changes.",Todo,No priority,"Concept, Part 00",Part 00: Foundations
+p00-e05 · Working with AI coding agents: the plan → build → review loop,"**Why:** Part 00 sets up the loop you'll use for every change in the course: you plan, the agent builds, you review, you merge.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can write a ticket with why, what, out of scope and done when, and review an agent's pull request with the three review questions.",Todo,No priority,"Concept, Part 00",Part 00: Foundations
+p00-e06 · Project instructions and context files for your agent,"**Why:** Part 00 sets up the loop you'll use for every change in the course: you plan, the agent builds, you review, you merge.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** Your `feedback-analyzer` repo has an `AGENTS.md` (and a `CLAUDE.md` that points to it), merged through a pull request, and a fresh agent session can list its rules.",Todo,No priority,"Build-along, Part 00",Part 00: Foundations
+"p00-e07 · Import the course Linear board, create your repo, merge your first pull request","**Why:** Part 00 sets up the loop you'll use for every change in the course: you plan, the agent builds, you review, you merge.
+
+**What:** Watch the episode with its lesson open (both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md)). Then import this backlog into Linear and group it into one project per part. Create a GitHub repo and a Linear team for your own product, connect Linear to GitHub, and have an agent open your product's first pull request from its first ticket.
+
+**Out of scope:** Choosing your final product idea: that's Part 01. A working name and a one-line guess are enough. No code, no tech stack.
+
+**Done when:** Your product's first ticket moved to Done by itself when its pull request merged, p00-e01 to p00-e06 are Done, and you've closed this ticket yourself.",Todo,No priority,"Your Turn, Part 00",Part 00: Foundations
+p01-e01 · What a product is: problem vs. solution,"**Why:** Before anything gets built, you need to know what you're building and for whom, with the work broken into tickets.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can describe your idea as a problem (who has it, how often, what it costs them) without naming a solution.",Backlog,No priority,"Concept, Part 01",Part 01: Product Management
+p01-e02 · Choosing an idea: portfolio-worthy vs. market-worthy,"**Why:** Before anything gets built, you need to know what you're building and for whom, with the work broken into tickets.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can say whether your idea is aimed at a portfolio or a market, and what that choice trades off.",Backlog,No priority,"Concept, Part 01",Part 01: Product Management
+"p01-e03 · User interviews, and synthesizing them with AI","**Why:** Before anything gets built, you need to know what you're building and for whom, with the work broken into tickets.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You have interview questions that ask about past behavior rather than opinions, and you can turn interview notes into themes with AI without losing the quotes behind them.",Backlog,No priority,"Concept, Part 01",Part 01: Product Management
+p01-e04 · Competitor and market scan,"**Why:** Before anything gets built, you need to know what you're building and for whom, with the work broken into tickets.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** The feedback analyzer has a competitor table: who each competitor serves, what they charge, and the gap we're aiming at.",Backlog,No priority,"Build-along, Part 01",Part 01: Product Management
+"p01-e05 · Writing a one-page spec: user stories, MVP scope, what's out of scope","**Why:** Before anything gets built, you need to know what you're building and for whom, with the work broken into tickets.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can write a one-page spec with user stories, an MVP scope and an explicit out-of-scope list.",Backlog,No priority,"Concept, Part 01",Part 01: Product Management
+"p01-e06 · Project management: issues, epics, sprints, estimation, priority, backlog (Linear and Jira)","**Why:** Before anything gets built, you need to know what you're building and for whom, with the work broken into tickets.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can explain issues, epics, sprints, estimates, priority and the backlog, and find each one in Linear and in Jira.",Backlog,No priority,"Concept, Part 01",Part 01: Product Management
+p01-e07 · Turning the spec into tickets; what a good ticket looks like,"**Why:** Before anything gets built, you need to know what you're building and for whom, with the work broken into tickets.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** The feedback analyzer's spec is broken into epics and tickets, and every ticket has why, what, out of scope and done when.",Backlog,No priority,"Build-along, Part 01",Part 01: Product Management
+p01-e08 · Write your spec and MVP backlog,"**Why:** Before anything gets built, you need to know what you're building and for whom, with the work broken into tickets.
+
+**What:** Watch the episode with its lesson open (both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md)). Then write a one-page spec for your product in `docs/spec.md`, and break it into an MVP backlog of about 20 tickets in your product's Linear team.
+
+**Out of scope:** Designs and code. Anything past the MVP goes in the spec's out-of-scope list, not in the backlog.
+
+**Done when:** `docs/spec.md` is merged through a pull request, and your product's team has an MVP project with about 20 tickets, each with why, what, out of scope and done when.",Backlog,No priority,"Your Turn, Part 01",Part 01: Product Management
+"p02-e01 · UX fundamentals: user flows, information architecture, the happy path","**Why:** You see and click through the product before writing real code, while changes are still cheap.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can draw your product's happy path as a user flow, screen by screen.",Backlog,No priority,"Concept, Part 02",Part 02: Design
+p02-e02 · Wireframes in Figma or Excalidraw,"**Why:** You see and click through the product before writing real code, while changes are still cheap.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** The feedback analyzer's main flow is wireframed, one frame per screen.",Backlog,No priority,"Build-along, Part 02",Part 02: Design
+"p02-e03 · AI prototyping (v0, artifacts)","**Why:** You see and click through the product before writing real code, while changes are still cheap.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** The feedback analyzer has a clickable prototype of its main flow, made with an AI prototyping tool.",Backlog,No priority,"Build-along, Part 02",Part 02: Design
+"p02-e04 · Visual basics: typography, spacing, color, hierarchy","**Why:** You see and click through the product before writing real code, while changes are still cheap.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can look at a screen and say what's wrong with its type, spacing, color or hierarchy.",Backlog,No priority,"Concept, Part 02",Part 02: Design
+p02-e05 · Design systems: Tailwind and shadcn,"**Why:** You see and click through the product before writing real code, while changes are still cheap.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can explain what a design system gives you, and how Tailwind and shadcn fit together.",Backlog,No priority,"Concept, Part 02",Part 02: Design
+p02-e06 · Accessibility and responsive layout basics,"**Why:** You see and click through the product before writing real code, while changes are still cheap.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can check a screen for contrast, keyboard use and labels, and say how its layout should change on a phone.",Backlog,No priority,"Concept, Part 02",Part 02: Design
+p02-e07 · Prototype your product's main flow,"**Why:** You see and click through the product before writing real code, while changes are still cheap.
+
+**What:** Watch the episode with its lesson open (both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md)). Then wireframe your product's main flow from your spec, then turn it into a clickable prototype.
+
+**Out of scope:** Real data and production code. The prototype is for learning, not for shipping.
+
+**Done when:** Someone who hasn't read your spec can click through the main flow without help, and the prototype is linked from your repo's README.",Backlog,No priority,"Your Turn, Part 02",Part 02: Design
+"p03-e01 · How the web works: HTML, CSS, JavaScript, the DOM","**Why:** The real UI runs in the browser on mock data, so you can try the product's flow before the backend exists.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can explain what the browser does with HTML, CSS and JavaScript, and find an element in the DOM with the browser's dev tools.",Backlog,No priority,"Concept, Part 03",Part 03: Frontend
+"p03-e02 · React: components, props, state","**Why:** The real UI runs in the browser on mock data, so you can try the product's flow before the backend exists.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can read a React component and say which values are props and which are state.",Backlog,No priority,"Concept, Part 03",Part 03: Frontend
+"p03-e03 · Next.js: routing, layouts, server vs. client components","**Why:** The real UI runs in the browser on mock data, so you can try the product's flow before the backend exists.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can explain routes and layouts, and say whether a Next.js component runs on the server or in the browser.",Backlog,No priority,"Concept, Part 03",Part 03: Frontend
+p03-e04 · Building the main pages,"**Why:** The real UI runs in the browser on mock data, so you can try the product's flow before the backend exists.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** The feedback analyzer's main pages render in the browser on mock data.",Backlog,No priority,"Build-along, Part 03",Part 03: Frontend
+"p03-e05 · Forms, validation, and loading, error and empty states","**Why:** The real UI runs in the browser on mock data, so you can try the product's flow before the backend exists.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** The feedback analyzer's forms validate their input, and every page has a loading, an error and an empty state.",Backlog,No priority,"Build-along, Part 03",Part 03: Frontend
+p03-e06 · Calling APIs from the frontend,"**Why:** The real UI runs in the browser on mock data, so you can try the product's flow before the backend exists.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can explain how the frontend fetches data from an API, and how it should handle a slow or failed response.",Backlog,No priority,"Concept, Part 03",Part 03: Frontend
+p03-e07 · Build your UI on mock data and deploy a preview,"**Why:** The real UI runs in the browser on mock data, so you can try the product's flow before the backend exists.
+
+**What:** Watch the episode with its lesson open (both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md)). Then build your product's main pages on mock data, following your prototype, and deploy a preview.
+
+**Out of scope:** A real backend, a database and sign-in. Those come in Part 04.
+
+**Done when:** A preview URL runs your main flow on mock data, and every change reached `main` through a reviewed pull request.",Backlog,No priority,"Your Turn, Part 03",Part 03: Frontend
+"p04-e01 · APIs: HTTP, REST, status codes, designing endpoints","**Why:** Real data and real users turn the UI into a working full-stack MVP.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can design the endpoints for a feature, with the right methods and status codes.",Backlog,No priority,"Concept, Part 04",Part 04: Backend and Data
+p04-e02 · FastAPI essentials,"**Why:** Real data and real users turn the UI into a working full-stack MVP.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** The feedback analyzer has a FastAPI backend with its first endpoints and their docs page.",Backlog,No priority,"Build-along, Part 04",Part 04: Backend and Data
+"p04-e03 · Databases: data modeling, SQL basics, Postgres","**Why:** Real data and real users turn the UI into a working full-stack MVP.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can model a product's data as tables with keys and relations, and write a basic SQL query.",Backlog,No priority,"Concept, Part 04",Part 04: Backend and Data
+"p04-e04 · Schema, ORM and migrations","**Why:** Real data and real users turn the UI into a working full-stack MVP.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** The feedback analyzer's schema exists in Postgres, created by a migration.",Backlog,No priority,"Build-along, Part 04",Part 04: Backend and Data
+p04-e05 · Authentication and authorization,"**Why:** Real data and real users turn the UI into a working full-stack MVP.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can explain the difference between authentication and authorization, and between sessions and tokens.",Backlog,No priority,"Concept, Part 04",Part 04: Backend and Data
+p04-e06 · Sign-in and roles,"**Why:** Real data and real users turn the UI into a working full-stack MVP.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** People can sign in to the feedback analyzer, and their role limits what they can see and do.",Backlog,No priority,"Build-along, Part 04",Part 04: Backend and Data
+"p04-e07 · Background jobs, webhooks and file storage","**Why:** Real data and real users turn the UI into a working full-stack MVP.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can say when work belongs in a background job, how a webhook works, and where uploaded files should go.",Backlog,No priority,"Concept, Part 04",Part 04: Backend and Data
+p04-e08 · Integrating third-party APIs,"**Why:** Real data and real users turn the UI into a working full-stack MVP.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** The feedback analyzer creates tickets in Linear through Linear's API.",Backlog,No priority,"Build-along, Part 04",Part 04: Backend and Data
+p04-e09 · Connect your frontend to a real backend,"**Why:** Real data and real users turn the UI into a working full-stack MVP.
+
+**What:** Watch the episode with its lesson open (both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md)). Then give your product a backend and a database, add sign-in, and switch the frontend from mock data to real data.
+
+**Out of scope:** AI features and analytics. Those come in Parts 05 and 06.
+
+**Done when:** A signed-in user can complete your main flow on real data stored in Postgres.",Backlog,No priority,"Your Turn, Part 04",Part 04: Backend and Data
+"p05-e01 · How LLMs work for app developers: tokens, context windows, sampling","**Why:** The product gets an AI feature users can rely on, and you can measure how good it is.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can explain tokens, context windows and sampling, and estimate what a request costs.",Backlog,No priority,"Concept, Part 05",Part 05: AI Engineering
+p05-e02 · Calling an LLM API: prompts and system prompts,"**Why:** The product gets an AI feature users can rely on, and you can measure how good it is.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** The feedback analyzer calls an LLM from its backend with a system prompt, and the API key isn't in the repo.",Backlog,No priority,"Build-along, Part 05",Part 05: AI Engineering
+p05-e03 · Structured outputs and tool use,"**Why:** The product gets an AI feature users can rely on, and you can measure how good it is.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can get structured output back from a model, and define a tool it can call.",Backlog,No priority,"Concept, Part 05",Part 05: AI Engineering
+"p05-e04 · RAG: embeddings, vector search (pgvector), chunking","**Why:** The product gets an AI feature users can rely on, and you can measure how good it is.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can explain embeddings, vector search and chunking, and say when RAG is the right fit.",Backlog,No priority,"Concept, Part 05",Part 05: AI Engineering
+"p05-e05 · Agents: the agent loop, MCP, agent SDKs, and when not to use an agent","**Why:** The product gets an AI feature users can rely on, and you can measure how good it is.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can describe the agent loop and MCP, and say when a single LLM call is better than an agent.",Backlog,No priority,"Concept, Part 05",Part 05: AI Engineering
+p05-e06 · Evals: test datasets and LLM-as-judge,"**Why:** The product gets an AI feature users can rely on, and you can measure how good it is.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can build an eval set and score it with checks and an LLM-as-judge rubric.",Backlog,No priority,"Concept, Part 05",Part 05: AI Engineering
+p05-e07 · An eval suite for the AI feature,"**Why:** The product gets an AI feature users can rely on, and you can measure how good it is.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** The feedback analyzer's theme grouping has an eval suite you can rerun with one command.",Backlog,No priority,"Build-along, Part 05",Part 05: AI Engineering
+"p05-e08 · Production concerns: cost, latency, caching, streaming, guardrails","**Why:** The product gets an AI feature users can rely on, and you can measure how good it is.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can name ways to cut cost and latency, say when to stream, and choose the guardrails a feature needs.",Backlog,No priority,"Concept, Part 05",Part 05: AI Engineering
+p05-e09 · When classical ML or a simple heuristic beats an LLM,"**Why:** The product gets an AI feature users can rely on, and you can measure how good it is.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can tell when a heuristic or a classical model would do a job better than an LLM.",Backlog,No priority,"Concept, Part 05",Part 05: AI Engineering
+"p05-e10 · Add one AI feature to your product, with evals","**Why:** The product gets an AI feature users can rely on, and you can measure how good it is.
+
+**What:** Watch the episode with its lesson open (both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md)). Then add one AI feature to your product, and an eval set that measures how well it works.
+
+**Out of scope:** More than one AI feature. Get one feature measured and reliable first.
+
+**Done when:** The feature is merged, its eval set runs with one command, and the pull request records the score.",Backlog,No priority,"Your Turn, Part 05",Part 05: AI Engineering
+"p06-e01 · Data processing and pipelines: pandas, polars, ETL","**Why:** You learn how people use the product, and you can show it on a dashboard.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can load, clean and reshape a dataset with pandas or polars, and describe an ETL pipeline step by step.",Backlog,No priority,"Concept, Part 06",Part 06: Data and Analytics
+"p06-e02 · Product analytics: events, funnels, retention","**Why:** You learn how people use the product, and you can show it on a dashboard.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can define the events, funnel and retention measure for a product, and pick the metric that matters most.",Backlog,No priority,"Concept, Part 06",Part 06: Data and Analytics
+p06-e03 · Event tracking with PostHog,"**Why:** You learn how people use the product, and you can show it on a dashboard.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** The feedback analyzer sends its key events to PostHog.",Backlog,No priority,"Build-along, Part 06",Part 06: Data and Analytics
+p06-e04 · Data visualization: choosing the right chart,"**Why:** You learn how people use the product, and you can show it on a dashboard.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can choose a chart for a question, and say why the other options would mislead.",Backlog,No priority,"Concept, Part 06",Part 06: Data and Analytics
+p06-e05 · Building a metrics dashboard,"**Why:** You learn how people use the product, and you can show it on a dashboard.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** The feedback analyzer has a dashboard of its core metrics.",Backlog,No priority,"Build-along, Part 06",Part 06: Data and Analytics
+p06-e06 · A/B tests and feature flags,"**Why:** You learn how people use the product, and you can show it on a dashboard.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can design an A/B test, and use a feature flag to ship a change to some users first.",Backlog,No priority,"Concept, Part 06",Part 06: Data and Analytics
+p06-e07 · Track your core metrics,"**Why:** You learn how people use the product, and you can show it on a dashboard.
+
+**What:** Watch the episode with its lesson open (both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md)). Then choose your product's core metrics, track the events behind them, and build a dashboard.
+
+**Out of scope:** Tracking everything. Track only the events your metrics need.
+
+**Done when:** Your key events arrive in your analytics tool, and your dashboard answers the one question you most need answered.",Backlog,No priority,"Your Turn, Part 06",Part 06: Data and Analytics
+"p07-e01 · Testing: unit, integration and end-to-end (pytest, Playwright)","**Why:** You can trust the code, including the code the AI wrote.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can say which kind of test a change needs, and read a pytest test and a Playwright test.",Backlog,No priority,"Concept, Part 07",Part 07: Quality and Security
+"p07-e02 · Having AI write tests, then reviewing the tests","**Why:** You can trust the code, including the code the AI wrote.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** The feedback analyzer has AI-written tests that you reviewed, and you sent back at least one weak test.",Backlog,No priority,"Build-along, Part 07",Part 07: Quality and Security
+p07-e03 · Reviewing AI-written pull requests: a checklist,"**Why:** You can trust the code, including the code the AI wrote.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can review an AI-written pull request against the checklist.",Backlog,No priority,"Concept, Part 07",Part 07: Quality and Security
+"p07-e04 · ""The AI got it wrong"" labs: debugging plausible-looking broken code","**Why:** You can trust the code, including the code the AI wrote.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You found the bug in each lab, and you can say why the broken code looked right.",Backlog,No priority,"Build-along, Part 07",Part 07: Quality and Security
+"p07-e05 · Security: OWASP basics, secrets, auth bugs, prompt injection, dependencies","**Why:** You can trust the code, including the code the AI wrote.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can spot the common OWASP issues, leaked secrets, auth bugs, prompt injection and risky dependencies in a diff.",Backlog,No priority,"Concept, Part 07",Part 07: Quality and Security
+p07-e06 · Add CI and complete the security checklist,"**Why:** You can trust the code, including the code the AI wrote.
+
+**What:** Watch the episode with its lesson open (both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md)). Then add continuous integration that runs your tests on every pull request, and work through the security checklist for your product.
+
+**Out of scope:** Full test coverage. Cover the main flow and the parts that handle money, data and sign-in.
+
+**Done when:** Tests run in GitHub Actions on every pull request and pass on `main`, and every item on the security checklist is fixed or has a ticket.",Backlog,No priority,"Your Turn, Part 07",Part 07: Quality and Security
+"p08-e01 · Environments, environment variables and secrets; Docker basics","**Why:** The product goes live, monitored, and able to take payments.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can explain environments and environment variables, keep secrets out of git, and run an app in Docker.",Backlog,No priority,"Concept, Part 08",Part 08: Ship and Operate
+p08-e02 · Deploying the frontend and backend,"**Why:** The product goes live, monitored, and able to take payments.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** The feedback analyzer's frontend and backend are deployed and talking to each other.",Backlog,No priority,"Build-along, Part 08",Part 08: Ship and Operate
+p08-e03 · CI/CD with GitHub Actions,"**Why:** The product goes live, monitored, and able to take payments.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can read a GitHub Actions workflow and say what runs on each push and pull request.",Backlog,No priority,"Concept, Part 08",Part 08: Ship and Operate
+"p08-e04 · Domains, DNS and HTTPS","**Why:** The product goes live, monitored, and able to take payments.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can point a domain at an app and explain the DNS records and HTTPS involved.",Backlog,No priority,"Concept, Part 08",Part 08: Ship and Operate
+"p08-e05 · Monitoring: logs, error tracking, alerts","**Why:** The product goes live, monitored, and able to take payments.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** Errors in the feedback analyzer appear in error tracking and trigger an alert.",Backlog,No priority,"Build-along, Part 08",Part 08: Ship and Operate
+p08-e06 · Payments with Stripe; transactional email,"**Why:** The product goes live, monitored, and able to take payments.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** The feedback analyzer takes a payment in Stripe test mode and sends a receipt by email.",Backlog,No priority,"Build-along, Part 08",Part 08: Ship and Operate
+"p08-e07 · Legal basics: terms of service, privacy policy, GDPR","**Why:** The product goes live, monitored, and able to take payments.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You know what your terms of service and privacy policy must cover, and what GDPR asks of you.",Backlog,No priority,"Concept, Part 08",Part 08: Ship and Operate
+p08-e08 · Ship your product on a custom domain,"**Why:** The product goes live, monitored, and able to take payments.
+
+**What:** Watch the episode with its lesson open (both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md)). Then deploy your product to a custom domain with monitoring, payments in test mode and transactional email.
+
+**Out of scope:** Live payments and scaling work. Test mode is enough for the course.
+
+**Done when:** Your product is live on your domain over HTTPS, a test payment goes through, errors reach your error tracking, and it has terms of service and privacy pages.",Backlog,No priority,"Your Turn, Part 08",Part 08: Ship and Operate
+p09-e01 · Positioning and landing page copy,"**Why:** Real people use the product, and you improve it based on what they tell you.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can write a one-line positioning statement and a landing page headline that follows from it.",Backlog,No priority,"Concept, Part 09",Part 09: Launch and Iterate
+p09-e02 · Pricing,"**Why:** Real people use the product, and you improve it based on what they tell you.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can choose a pricing model and a first price, and say what would make you change it.",Backlog,No priority,"Concept, Part 09",Part 09: Launch and Iterate
+"p09-e03 · Launch channels: Product Hunt, communities, content, SEO basics","**Why:** Real people use the product, and you improve it based on what they tell you.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can pick the launch channels that fit your users, and plan a launch post for each.",Backlog,No priority,"Concept, Part 09",Part 09: Launch and Iterate
+p09-e04 · Collecting feedback and support requests,"**Why:** Real people use the product, and you improve it based on what they tell you.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** The feedback analyzer collects feedback and support requests in one place.",Backlog,No priority,"Build-along, Part 09",Part 09: Launch and Iterate
+p09-e05 · Prioritization and roadmapping (RICE),"**Why:** Real people use the product, and you improve it based on what they tell you.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can score a backlog with RICE and turn the result into a short roadmap.",Backlog,No priority,"Concept, Part 09",Part 09: Launch and Iterate
+p09-e06 · Feedback → tickets → sprint → ship,"**Why:** Real people use the product, and you improve it based on what they tell you.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** One round of user feedback for the feedback analyzer became tickets, a sprint and a shipped change.",Backlog,No priority,"Build-along, Part 09",Part 09: Launch and Iterate
+p09-e07 · Launch publicly and ship one iteration,"**Why:** Real people use the product, and you improve it based on what they tell you.
+
+**What:** Watch the episode with its lesson open (both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md)). Then launch your product publicly, collect feedback, and ship one change that came from it.
+
+**Out of scope:** A big redesign. One small change from real feedback is the goal.
+
+**Done when:** Your product is launched on at least one public channel, and one change based on user feedback is merged and live.",Backlog,No priority,"Your Turn, Part 09",Part 09: Launch and Iterate
+p10a-e01 · Writing a case study of your product,"**Why:** Your product becomes a portfolio piece, and you get ready for interviews.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You have a case study of your product: the problem, the decisions you made, and what you'd do differently.",Backlog,No priority,Part 10A,Part 10A: Get Hired
+p10a-e02 · Recording a demo video,"**Why:** Your product becomes a portfolio piece, and you get ready for interviews.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You have a short demo video that shows your product's main flow.",Backlog,No priority,Part 10A,Part 10A: Get Hired
+p10a-e03 · A GitHub profile that shows how you work,"**Why:** Your product becomes a portfolio piece, and you get ready for interviews.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** Your GitHub profile and pinned repo show how you work: tickets, pull requests and reviews.",Backlog,No priority,Part 10A,Part 10A: Get Hired
+"p10a-e04 · A resume for AI-era roles: AI engineer, product engineer, founding engineer","**Why:** Your product becomes a portfolio piece, and you get ready for interviews.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You have a one-page resume aimed at one AI-era role, with your product as the lead project.",Backlog,No priority,Part 10A,Part 10A: Get Hired
+"p10a-e05 · Interviews: coding with and without AI, take-home projects, light system design, product sense","**Why:** Your product becomes a portfolio piece, and you get ready for interviews.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You know how each type of interview works and have practiced each one at least once.",Backlog,No priority,Part 10A,Part 10A: Get Hired
+p10a-e06 · Freelancing as a bridge into work,"**Why:** Your product becomes a portfolio piece, and you get ready for interviews.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can decide whether freelancing fits you, and how to find and scope a first client.",Backlog,No priority,Part 10A,Part 10A: Get Hired
+p10b-e01 · Finding the first 10 customers,"**Why:** Your product gets its first paying customers.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You know where your first 10 customers are and how you'll reach each of them.",Backlog,No priority,Part 10B,Part 10B: Go Indie
+p10b-e02 · Sales basics,"**Why:** Your product gets its first paying customers.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can run a sales conversation from the first message to a yes or a no.",Backlog,No priority,Part 10B,Part 10B: Go Indie
+p10b-e03 · Customer support,"**Why:** Your product gets its first paying customers.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You have a support channel and a way to turn support requests into tickets.",Backlog,No priority,Part 10B,Part 10B: Go Indie
+p10b-e04 · Unit economics,"**Why:** Your product gets its first paying customers.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can calculate your product's customer acquisition cost, lifetime value and margin.",Backlog,No priority,Part 10B,Part 10B: Go Indie
+p10b-e05 · Legal entity basics,"**Why:** Your product gets its first paying customers.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You know which legal entity fits your situation and what forming it involves.",Backlog,No priority,Part 10B,Part 10B: Go Indie
+p10b-e06 · Bootstrapping vs. raising money,"**Why:** Your product gets its first paying customers.
+
+**What:** Watch the episode with its lesson open. Both are linked from the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Done when:** You can compare bootstrapping and raising money for your product, and choose one.",Backlog,No priority,Part 10B,Part 10B: Go Indie
+Capstone: a live product and a case study,"**Why:** The capstone checks the whole course against one product: yours.
+
+**What:** Submit your live product and its case study for review against the published rubric. The rubric's criteria are listed in the [course index](https://github.com/hejazizo/product-with-ai/blob/main/course/README.md).
+
+**Out of scope:** New features. The capstone assesses what you've built and how you built it.
+
+**Done when:** The submission meets the rubric: it works, spec quality, ticket hygiene, tests and evals, the security checklist, and the write-up.",Backlog,No priority,Capstone,Capstone

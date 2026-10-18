@@ -1,13 +1,14 @@
 # Product with AI: working conventions
 
-A free Pytopia course on YouTube. See [README.md](README.md) for the syllabus and [course/README.md](course/README.md) for episode conventions.
+A free Pytopia course on YouTube. See [README.md](README.md) for the pitch and syllabus, and [course/README.md](course/README.md) for the episode index and conventions.
 
 ## Lessons are Claude artifacts
 
-- Each episode's interactive lesson is a Claude artifact. Its HTML source lives in the repo at `course/parts/NN-name/NN-episode-name/lesson.html`.
-- After publishing, put the artifact URL in the episode's `notes.md` (the **Lesson artifact** field) and in the part README's episode list.
-- `notes.md` is the recording script. `lesson.html` is what students read and interact with.
-- Republish from the same file so the artifact keeps its URL.
+- Each episode is one Claude artifact. The artifact is the only copy of the lesson: no `lesson.html`, `notes.md` or other per-episode markdown in the repo.
+- [course/README.md](course/README.md) is the single index of every part and episode. After publishing, put the artifact URL in the episode's **Lesson** column and update its **Status**.
+- The lesson is also the recording outline. Every lesson follows the structure in "What every lesson contains" in course/README.md.
+- To change a lesson, read the artifact by its URL, edit, and republish to the same URL so the link keeps working.
+- An episode gets a folder, `course/episodes/pNN-eNN/`, only when it needs files beside its lesson (starter code, datasets, images).
 
 ## Mermaid diagrams in markdown
 

@@ -24,6 +24,7 @@ Everyone builds a real product of their own alongside the course. At the end, yo
   - **Concept:** one idea explained on its own, useful outside the course.
   - **Build-along:** we apply it to the reference product on screen.
   - **Your Turn:** a short brief for applying it to your own product, as a ticket.
+- **An interactive lesson for every video.** Keep it open while you watch: it has the diagrams, the prompts we use and your brief. Find them all in the [course index](course/README.md).
 - **Two products in parallel:** we build the [reference product](project/) on camera, and you build your own idea.
 - **The course is a Linear board.** Every lesson is a ticket you import and close as you go. See [course/linear/](course/linear/).
 - **Catch-up points:** the reference product has a git tag at the end of every part (e.g. `part04-end`), so you can always pick up from there.
@@ -58,25 +59,25 @@ flowchart LR
 
 | Part | Topic | You finish with |
 |---|---|---|
-| 00 | [Foundations](course/parts/00-foundations/) | A working setup and your first merged pull request |
-| 01 | [Product Management](course/parts/01-product-management/) | A one-page spec and an MVP backlog |
-| 02 | [Design](course/parts/02-design/) | A clickable prototype |
-| 03 | [Frontend](course/parts/03-frontend/) | A UI running on mock data |
-| 04 | [Backend and Data](course/parts/04-backend-and-data/) | A working full-stack MVP |
-| 05 | [AI Engineering](course/parts/05-ai-engineering/) | An AI feature with an eval suite |
-| 06 | [Data and Analytics](course/parts/06-data-and-analytics/) | A metrics dashboard |
-| 07 | [Quality and Security](course/parts/07-quality-and-security/) | CI with passing tests and a security checklist |
-| 08 | [Ship and Operate](course/parts/08-ship-and-operate/) | A live product on a custom domain, taking payments |
-| 09 | [Launch and Iterate](course/parts/09-launch-and-iterate/) | A public launch and one shipped iteration |
-| 10 | [Tracks: Get Hired / Go Indie](course/parts/10-tracks/) | A portfolio case study, or your first customers |
+| 00 | [Foundations](course/README.md#part-00-foundations) | A working setup and your first merged pull request |
+| 01 | [Product Management](course/README.md#part-01-product-management) | A one-page spec and an MVP backlog |
+| 02 | [Design](course/README.md#part-02-design) | A clickable prototype |
+| 03 | [Frontend](course/README.md#part-03-frontend) | A UI running on mock data |
+| 04 | [Backend and Data](course/README.md#part-04-backend-and-data) | A working full-stack MVP |
+| 05 | [AI Engineering](course/README.md#part-05-ai-engineering) | An AI feature with an eval suite |
+| 06 | [Data and Analytics](course/README.md#part-06-data-and-analytics) | A metrics dashboard |
+| 07 | [Quality and Security](course/README.md#part-07-quality-and-security) | CI with passing tests and a security checklist |
+| 08 | [Ship and Operate](course/README.md#part-08-ship-and-operate) | A live product on a custom domain, taking payments |
+| 09 | [Launch and Iterate](course/README.md#part-09-launch-and-iterate) | A public launch and one shipped iteration |
+| 10 | [Tracks: Get Hired / Go Indie](course/README.md#part-10-tracks) | A portfolio case study, or your first customers |
 
 ## Repository layout
 
 ```
 product-with-ai/
 ├── course/
-│   ├── parts/       # one folder per part, one subfolder per episode
-│   ├── templates/   # templates for episode notes
+│   ├── README.md    # index of every episode, with links to its lesson artifact and video
+│   ├── episodes/    # extra files for an episode, only when it needs them
 │   └── linear/      # the course as an importable Linear backlog
 └── project/         # the reference product built on camera
 ```

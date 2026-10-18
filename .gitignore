@@ -218,6 +218,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-
-# Course content (overrides the Python packaging rule "parts/" above)
-!/course/parts/

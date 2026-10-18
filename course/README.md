@@ -99,7 +99,7 @@ flowchart LR
 | p00-e03 | Build-along | Git and GitHub: commits, branches, pull requests | [Lesson](https://claude.ai/artifact/YL31nCSGV8jvvUJuE3igaK) | | drafting |
 | p00-e04 | Concept | Code literacy: reading Python and TypeScript (variables, functions, objects, async) | [Lesson](https://claude.ai/artifact/NLS3SEYqo5MqmWuE98KDR4) | | drafting |
 | p00-e05 | Concept | Working with AI coding agents: the plan → build → review loop | [Lesson](https://claude.ai/artifact/LzQV7KZbja7SDjCESXJypf) | | drafting |
-| p00-e06 | Build-along | Project instructions and context files for your agent | | | planned |
+| p00-e06 | Build-along | Project instructions and context files for your agent | [Lesson](https://claude.ai/artifact/YbrTUw8NCStC2PiPMQB11v) | | drafting |
 | p00-e07 | Your Turn | Import the course Linear board, create your repo, merge your first pull request | | | planned |
 
 ## Part 01: Product Management

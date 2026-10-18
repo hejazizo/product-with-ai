@@ -1,3 +1,5 @@
+![Product with AI: a free Pytopia course on building a complete product from scratch with AI](assets/banner.svg)
+
 # Product with AI
 
 A free Pytopia course on YouTube about building a complete product from scratch with AI, and covering every role a product needs: product management, design, frontend, backend, AI engineering, data, quality, deployment and launch.
